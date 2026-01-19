@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "name": "North America Sales",
+    "metrics": [
+      { "date": "2025-02-01", "sessions": 4987, "activeBots": 11, "totalUsers": 157, "decommissionedBots": 0, "ticketsHandled": 781 },
+      { "date": "2025-03-01", "sessions": 4394, "activeBots": 9, "totalUsers": 190, "decommissionedBots": 1, "ticketsHandled": 709 },
+      { "date": "2025-04-01", "sessions": 3581, "activeBots": 9, "totalUsers": 148, "decommissionedBots": 0, "ticketsHandled": 599 },
+      { "date": "2025-05-01", "sessions": 7008, "activeBots": 11, "totalUsers": 178, "decommissionedBots": 0, "ticketsHandled": 1060 },
+      { "date": "2025-06-01", "sessions": 4132, "activeBots": 11, "totalUsers": 164, "decommissionedBots": 0, "ticketsHandled": 713 },
+      { "date": "2025-07-01", "sessions": 7042, "activeBots": 11, "totalUsers": 161, "decommissionedBots": 1, "ticketsHandled": 1117 },
+      { "date": "2025-08-01", "sessions": 4275, "activeBots": 11, "totalUsers": 154, "decommissionedBots": 0, "ticketsHandled": 730 },
+      { "date": "2025-09-01", "sessions": 4080, "activeBots": 11, "totalUsers": 146, "decommissionedBots": 0, "ticketsHandled": 702 },
+      { "date": "2025-10-01", "sessions": 2686, "activeBots": 9, "totalUsers": 144, "decommissionedBots": 1, "ticketsHandled": 434 },
+      { "date": "2025-11-01", "sessions": 5622, "activeBots": 9, "totalUsers": 146, "decommissionedBots": 0, "ticketsHandled": 875 },
+      { "date": "2025-12-01", "sessions": 5210, "activeBots": 10, "totalUsers": 188, "decommissionedBots": 0, "ticketsHandled": 825 },
+      { "date": "2026-01-01", "sessions": 4822, "activeBots": 9, "totalUsers": 144, "decommissionedBots": 0, "ticketsHandled": 794 }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Europe Operations",
+    "metrics": [
+      { "date": "2025-02-01", "sessions": 9185, "activeBots": 6, "totalUsers": 387, "decommissionedBots": 0, "ticketsHandled": 1379 },
+      { "date": "2025-03-01", "sessions": 9546, "activeBots": 6, "totalUsers": 385, "decommissionedBots": 0, "ticketsHandled": 1479 },
+      { "date": "2025-04-01", "sessions": 5697, "activeBots": 5, "totalUsers": 390, "decommissionedBots": 1, "ticketsHandled": 916 },
+      { "date": "2025-05-01", "sessions": 6848, "activeBots": 5, "totalUsers": 398, "decommissionedBots": 0, "ticketsHandled": 1081 },
+      { "date": "2025-06-01", "sessions": 6446, "activeBots": 7, "totalUsers": 393, "decommissionedBots": 0, "ticketsHandled": 1048 },
+      { "date": "2025-07-01", "sessions": 8461, "activeBots": 5, "totalUsers": 414, "decommissionedBots": 1, "ticketsHandled": 1319 },
+      { "date": "2025-08-01", "sessions": 5163, "activeBots": 5, "totalUsers": 373, "decommissionedBots": 0, "ticketsHandled": 804 },
+      { "date": "2025-09-01", "sessions": 5099, "activeBots": 5, "totalUsers": 394, "decommissionedBots": 0, "ticketsHandled": 835 },
+      { "date": "2025-10-01", "sessions": 9580, "activeBots": 6, "totalUsers": 417, "decommissionedBots": 0, "ticketsHandled": 1532 },
+      { "date": "2025-11-01", "sessions": 8478, "activeBots": 5, "totalUsers": 394, "decommissionedBots": 0, "ticketsHandled": 1355 },
+      { "date": "2025-12-01", "sessions": 6235, "activeBots": 7, "totalUsers": 384, "decommissionedBots": 0, "ticketsHandled": 944 },
+      { "date": "2026-01-01", "sessions": 7634, "activeBots": 7, "totalUsers": 403, "decommissionedBots": 1, "ticketsHandled": 1169 }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "APAC Support",
+    "metrics": [
+      { "date": "2025-02-01", "sessions": 2474, "activeBots": 9, "totalUsers": 138, "decommissionedBots": 0, "ticketsHandled": 402 },
+      { "date": "2025-03-01", "sessions": 5819, "activeBots": 11, "totalUsers": 122, "decommissionedBots": 1, "ticketsHandled": 877 },
+      { "date": "2025-04-01", "sessions": 5819, "activeBots": 10, "totalUsers": 134, "decommissionedBots": 0, "ticketsHandled": 882 },
+      { "date": "2025-05-01", "sessions": 4192, "activeBots": 10, "totalUsers": 162, "decommissionedBots": 0, "ticketsHandled": 645 },
+      { "date": "2025-06-01", "sessions": 6711, "activeBots": 10, "totalUsers": 153, "decommissionedBots": 1, "ticketsHandled": 1038 },
+      { "date": "2025-07-01", "sessions": 4333, "activeBots": 10, "totalUsers": 141, "decommissionedBots": 0, "ticketsHandled": 686 },
+      { "date": "2025-08-01", "sessions": 2583, "activeBots": 11, "totalUsers": 163, "decommissionedBots": 0, "ticketsHandled": 463 },
+      { "date": "2025-09-01", "sessions": 7097, "activeBots": 9, "totalUsers": 135, "decommissionedBots": 0, "ticketsHandled": 1095 },
+      { "date": "2025-10-01", "sessions": 3092, "activeBots": 9, "totalUsers": 131, "decommissionedBots": 0, "ticketsHandled": 538 },
+      { "date": "2025-11-01", "sessions": 3173, "activeBots": 10, "totalUsers": 157, "decommissionedBots": 1, "ticketsHandled": 555 },
+      { "date": "2025-12-01", "sessions": 3291, "activeBots": 11, "totalUsers": 152, "decommissionedBots": 0, "ticketsHandled": 574 },
+      { "date": "2026-01-01", "sessions": 3411, "activeBots": 10, "totalUsers": 150, "decommissionedBots": 0, "ticketsHandled": 524 }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Global HR Bot",
+    "metrics": [
+      { "date": "2025-02-01", "sessions": 2829, "activeBots": 4, "totalUsers": 111, "decommissionedBots": 0, "ticketsHandled": 432 },
+      { "date": "2025-03-01", "sessions": 6104, "activeBots": 2, "totalUsers": 101, "decommissionedBots": 0, "ticketsHandled": 929 },
+      { "date": "2025-04-01", "sessions": 2748, "activeBots": 2, "totalUsers": 99, "decommissionedBots": 0, "ticketsHandled": 502 },
+      { "date": "2025-05-01", "sessions": 3184, "activeBots": 3, "totalUsers": 122, "decommissionedBots": 1, "ticketsHandled": 563 },
+      { "date": "2025-06-01", "sessions": 2511, "activeBots": 4, "totalUsers": 105, "decommissionedBots": 0, "ticketsHandled": 402 },
+      { "date": "2025-07-01", "sessions": 4161, "activeBots": 4, "totalUsers": 93, "decommissionedBots": 0, "ticketsHandled": 715 },
+      { "date": "2025-08-01", "sessions": 6716, "activeBots": 3, "totalUsers": 131, "decommissionedBots": 1, "ticketsHandled": 1034 },
+      { "date": "2025-09-01", "sessions": 3661, "activeBots": 4, "totalUsers": 128, "decommissionedBots": 0, "ticketsHandled": 630 },
+      { "date": "2025-10-01", "sessions": 5933, "activeBots": 2, "totalUsers": 125, "decommissionedBots": 1, "ticketsHandled": 952 },
+      { "date": "2025-11-01", "sessions": 3977, "activeBots": 4, "totalUsers": 92, "decommissionedBots": 0, "ticketsHandled": 608 },
+      { "date": "2025-12-01", "sessions": 5838, "activeBots": 3, "totalUsers": 127, "decommissionedBots": 0, "ticketsHandled": 931 },
+      { "date": "2026-01-01", "sessions": 4366, "activeBots": 4, "totalUsers": 116, "decommissionedBots": 1, "ticketsHandled": 726 }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "IT Helpdesk",
+    "metrics": [
+      { "date": "2025-02-01", "sessions": 9177, "activeBots": 10, "totalUsers": 507, "decommissionedBots": 0, "ticketsHandled": 1395 },
+      { "date": "2025-03-01", "sessions": 10571, "activeBots": 11, "totalUsers": 515, "decommissionedBots": 0, "ticketsHandled": 1639 },
+      { "date": "2025-04-01", "sessions": 8378, "activeBots": 10, "totalUsers": 532, "decommissionedBots": 0, "ticketsHandled": 1295 },
+      { "date": "2025-05-01", "sessions": 8604, "activeBots": 9, "totalUsers": 518, "decommissionedBots": 0, "ticketsHandled": 1313 },
+      { "date": "2025-06-01", "sessions": 9781, "activeBots": 10, "totalUsers": 521, "decommissionedBots": 0, "ticketsHandled": 1503 },
+      { "date": "2025-07-01", "sessions": 9885, "activeBots": 11, "totalUsers": 503, "decommissionedBots": 0, "ticketsHandled": 1552 },
+      { "date": "2025-08-01", "sessions": 6185, "activeBots": 9, "totalUsers": 501, "decommissionedBots": 0, "ticketsHandled": 1024 },
+      { "date": "2025-09-01", "sessions": 7138, "activeBots": 10, "totalUsers": 501, "decommissionedBots": 1, "ticketsHandled": 1070 },
+      { "date": "2025-10-01", "sessions": 8569, "activeBots": 10, "totalUsers": 523, "decommissionedBots": 0, "ticketsHandled": 1292 },
+      { "date": "2025-11-01", "sessions": 10605, "activeBots": 10, "totalUsers": 510, "decommissionedBots": 0, "ticketsHandled": 1660 },
+      { "date": "2025-12-01", "sessions": 6195, "activeBots": 9, "totalUsers": 538, "decommissionedBots": 1, "ticketsHandled": 1009 },
+      { "date": "2026-01-01", "sessions": 10324, "activeBots": 11, "totalUsers": 519, "decommissionedBots": 1, "ticketsHandled": 1573 }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Customer Service",
+    "metrics": [
+      { "date": "2025-02-01", "sessions": 6575, "activeBots": 3, "totalUsers": 484, "decommissionedBots": 0, "ticketsHandled": 1016 },
+      { "date": "2025-03-01", "sessions": 10654, "activeBots": 3, "totalUsers": 508, "decommissionedBots": 0, "ticketsHandled": 1602 },
+      { "date": "2025-04-01", "sessions": 10462, "activeBots": 3, "totalUsers": 472, "decommissionedBots": 0, "ticketsHandled": 1624 },
+      { "date": "2025-05-01", "sessions": 9279, "activeBots": 1, "totalUsers": 518, "decommissionedBots": 0, "ticketsHandled": 1460 },
+      { "date": "2025-06-01", "sessions": 9162, "activeBots": 2, "totalUsers": 497, "decommissionedBots": 0, "ticketsHandled": 1421 },
+      { "date": "2025-07-01", "sessions": 9183, "activeBots": 3, "totalUsers": 481, "decommissionedBots": 0, "ticketsHandled": 1451 },
+      { "date": "2025-08-01", "sessions": 10335, "activeBots": 3, "totalUsers": 472, "decommissionedBots": 0, "ticketsHandled": 1561 },
+      { "date": "2025-09-01", "sessions": 10653, "activeBots": 3, "totalUsers": 497, "decommissionedBots": 0, "ticketsHandled": 1665 },
+      { "date": "2025-10-01", "sessions": 6952, "activeBots": 3, "totalUsers": 491, "decommissionedBots": 1, "ticketsHandled": 1114 },
+      { "date": "2025-11-01", "sessions": 10537, "activeBots": 2, "totalUsers": 483, "decommissionedBots": 0, "ticketsHandled": 1583 },
+      { "date": "2025-12-01", "sessions": 9101, "activeBots": 3, "totalUsers": 518, "decommissionedBots": 0, "ticketsHandled": 1396 },
+      { "date": "2026-01-01", "sessions": 6649, "activeBots": 3, "totalUsers": 475, "decommissionedBots": 0, "ticketsHandled": 1045 }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Finance Assistant",
+    "metrics": [
+      { "date": "2025-02-01", "sessions": 9025, "activeBots": 2, "totalUsers": 436, "decommissionedBots": 0, "ticketsHandled": 1408 },
+      { "date": "2025-03-01", "sessions": 9931, "activeBots": 3, "totalUsers": 410, "decommissionedBots": 0, "ticketsHandled": 1540 },
+      { "date": "2025-04-01", "sessions": 6530, "activeBots": 2, "totalUsers": 426, "decommissionedBots": 0, "ticketsHandled": 1055 },
+      { "date": "2025-05-01", "sessions": 5427, "activeBots": 2, "totalUsers": 427, "decommissionedBots": 0, "ticketsHandled": 878 },
+      { "date": "2025-06-01", "sessions": 7918, "activeBots": 2, "totalUsers": 420, "decommissionedBots": 0, "ticketsHandled": 1269 },
+      { "date": "2025-07-01", "sessions": 8837, "activeBots": 3, "totalUsers": 421, "decommissionedBots": 0, "ticketsHandled": 1397 },
+      { "date": "2025-08-01", "sessions": 5545, "activeBots": 3, "totalUsers": 442, "decommissionedBots": 0, "ticketsHandled": 907 },
+      { "date": "2025-09-01", "sessions": 5968, "activeBots": 3, "totalUsers": 424, "decommissionedBots": 0, "ticketsHandled": 933 },
+      { "date": "2025-10-01", "sessions": 6137, "activeBots": 1, "totalUsers": 424, "decommissionedBots": 0, "ticketsHandled": 993 },
+      { "date": "2025-11-01", "sessions": 9103, "activeBots": 3, "totalUsers": 431, "decommissionedBots": 0, "ticketsHandled": 1383 },
+      { "date": "2025-12-01", "sessions": 6718, "activeBots": 3, "totalUsers": 418, "decommissionedBots": 0, "ticketsHandled": 1041 },
+      { "date": "2026-01-01", "sessions": 9855, "activeBots": 1, "totalUsers": 421, "decommissionedBots": 0, "ticketsHandled": 1533 }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Legal Compliance",
+    "metrics": [
+      { "date": "2025-02-01", "sessions": 7113, "activeBots": 7, "totalUsers": 103, "decommissionedBots": 0, "ticketsHandled": 1072 },
+      { "date": "2025-03-01", "sessions": 3650, "activeBots": 7, "totalUsers": 113, "decommissionedBots": 0, "ticketsHandled": 555 },
+      { "date": "2025-04-01", "sessions": 3652, "activeBots": 6, "totalUsers": 126, "decommissionedBots": 0, "ticketsHandled": 581 },
+      { "date": "2025-05-01", "sessions": 3254, "activeBots": 6, "totalUsers": 127, "decommissionedBots": 1, "ticketsHandled": 511 },
+      { "date": "2025-06-01", "sessions": 3048, "activeBots": 5, "totalUsers": 122, "decommissionedBots": 0, "ticketsHandled": 475 },
+      { "date": "2025-07-01", "sessions": 4046, "activeBots": 7, "totalUsers": 126, "decommissionedBots": 0, "ticketsHandled": 631 },
+      { "date": "2025-08-01", "sessions": 6487, "activeBots": 5, "totalUsers": 107, "decommissionedBots": 0, "ticketsHandled": 1018 },
+      { "date": "2025-09-01", "sessions": 6217, "activeBots": 5, "totalUsers": 133, "decommissionedBots": 0, "ticketsHandled": 1007 },
+      { "date": "2025-10-01", "sessions": 5270, "activeBots": 7, "totalUsers": 122, "decommissionedBots": 1, "ticketsHandled": 870 },
+      { "date": "2025-11-01", "sessions": 3850, "activeBots": 5, "totalUsers": 103, "decommissionedBots": 0, "ticketsHandled": 604 },
+      { "date": "2025-12-01", "sessions": 5427, "activeBots": 5, "totalUsers": 104, "decommissionedBots": 1, "ticketsHandled": 830 },
+      { "date": "2026-01-01", "sessions": 3008, "activeBots": 5, "totalUsers": 138, "decommissionedBots": 1, "ticketsHandled": 544 }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Product Onboarding",
+    "metrics": [
+      { "date": "2025-02-01", "sessions": 6851, "activeBots": 8, "totalUsers": 297, "decommissionedBots": 0, "ticketsHandled": 1088 },
+      { "date": "2025-03-01", "sessions": 6868, "activeBots": 8, "totalUsers": 332, "decommissionedBots": 0, "ticketsHandled": 1038 },
+      { "date": "2025-04-01", "sessions": 5692, "activeBots": 6, "totalUsers": 329, "decommissionedBots": 1, "ticketsHandled": 897 },
+      { "date": "2025-05-01", "sessions": 8794, "activeBots": 8, "totalUsers": 323, "decommissionedBots": 0, "ticketsHandled": 1409 },
+      { "date": "2025-06-01", "sessions": 6845, "activeBots": 6, "totalUsers": 287, "decommissionedBots": 1, "ticketsHandled": 1068 },
+      { "date": "2025-07-01", "sessions": 8446, "activeBots": 7, "totalUsers": 328, "decommissionedBots": 0, "ticketsHandled": 1355 },
+      { "date": "2025-08-01", "sessions": 4272, "activeBots": 8, "totalUsers": 290, "decommissionedBots": 0, "ticketsHandled": 702 },
+      { "date": "2025-09-01", "sessions": 7105, "activeBots": 7, "totalUsers": 300, "decommissionedBots": 1, "ticketsHandled": 1070 },
+      { "date": "2025-10-01", "sessions": 7223, "activeBots": 8, "totalUsers": 326, "decommissionedBots": 0, "ticketsHandled": 1133 },
+      { "date": "2025-11-01", "sessions": 4437, "activeBots": 6, "totalUsers": 285, "decommissionedBots": 0, "ticketsHandled": 669 },
+      { "date": "2025-12-01", "sessions": 8284, "activeBots": 6, "totalUsers": 311, "decommissionedBots": 1, "ticketsHandled": 1334 },
+      { "date": "2026-01-01", "sessions": 5298, "activeBots": 7, "totalUsers": 301, "decommissionedBots": 0, "ticketsHandled": 844 }
+    ]
+  }
+]
